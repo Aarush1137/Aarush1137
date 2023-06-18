@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarush</h1>
 <h3 align="center">Hello! I'm Aarush Jain, a 3rd-year CS student specializing in Cyber Physical Systems at VIT Chennai. My passion lies in coding and Android development.</h3>
-<img align="Right" alt="Coding" width="600" src="https://media3.giphy.com/media/jyTk0vpfS0pyqkgpZu/giphy.gif?cid=6c09b952zsgxhvovlop7hv71afw9stvfrfc1wgg0poaqk9v0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="Right" alt="Coding" width="600" src="https://i.gifer.com/Ozf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarush1137&label=Profile%20views&color=0e75b6&style=flat" alt="aarush1137" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
