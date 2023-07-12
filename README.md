@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarush Jain</h1>
+<h1 align="center">Hi 👋, I'm Aarush Jain 🎧</h1>
 <h3 align="center">Hello! I'm Aarush Jain, a 3rd-year CS student specializing in Cyber-Physical Systems at VIT Chennai. My passion lies in coding and Android development.</h3>
 <img align="Right" alt="Coding" width="500" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
