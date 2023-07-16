@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Android Dev, Coding**
+- 💬 Ask me about **Android Dev, Coding, Web Dev**
 
 - 📫 How to reach me **Aarushjain890@gmail.com**
 
